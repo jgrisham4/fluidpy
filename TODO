@@ -1,0 +1,16 @@
+- boundarylayer
+  - implicit/explicit solver
+  - Blasius solution
+  - compressibility transformation
+  - boundary layer profile
+    - Integral thicknesses
+    - Statistical method
+- gasdynamics
+  - shockpolar
+- hitempgasdynamics
+  - normalshock
+  - obliqueshock
+  - nozzle
+  - stagnationheating
+
+- Need to start writing tests using unittest module.
